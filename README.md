@@ -8,7 +8,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-👋 Hi, I'm currently studying at <ITC/> Bootcamp in order to be a Fullstack Developer.
+👋 Hi, I'm currently studying Fullstack development at ITC.
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lironbard">
 </p>
 
